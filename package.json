@@ -1,7 +1,7 @@
 {
-    "name": "celebspot-drei-mobile",
+    "name": "celebspot-drei",
     "version": "1.0.0",
-    "description": "celebspot-drei-mobile",
+    "description": "celebspot-drei",
     "main": "gulpfile.js",
     "scripts": {
         "dev": "gulp",
@@ -13,7 +13,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/dubisoft-solutions/celebspot-drei-mobile.git"
+        "url": "https://github.com/dubisoft-solutions/celebspot-drei.git"
     },
     "author": "Anna Dubynets",
     "license": "ISC",
